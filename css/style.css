@@ -3,6 +3,10 @@ body {
   color: #0b0b0b;
   background: linear-gradient(to top left, #d7d7ab 0%, #ffcc66 100%);
 }
+
+
+
+
 .card{  background: linear-gradient(to bottom right, #fbfba6 0%, #ffcc66 100%);}
  
 
@@ -83,6 +87,8 @@ body {
 .hero_area {
   /* background-image: url(../images/hero-bg.jpg); */
   background-color: #2fc178;
+
+  background: linear-gradient(to top left , #2fc178 0%, #ffcc66 100%);
   background-size: cover;
 }
 .form-label{margin-right: 63pc;}
