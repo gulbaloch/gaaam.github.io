@@ -5,7 +5,8 @@ body {
   background-color: #ffffff;
 }
 
-
+.imgslider{height: 80vh;
+min-height: 300px;}
 
 .carousel-item{
 
